@@ -11,3 +11,4 @@ Although this dataset was originally contributed to the UCI Machine Learning rep
 
 In this challenge, you are required to complete the analysis of what sorts of people were likely to survive. In particular, apply the tools of machine learning to predict which passengers survived the tragedy.
 
+![Alt text](https://github.com/parulnith/machine-Learning-solutions/blob/master/Classification/Titanic/titanic.png)
