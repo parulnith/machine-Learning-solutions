@@ -1,4 +1,4 @@
-# Machine Learning solutions for kaggle problems
+# Machine Learning solutions for Kaggle problems
 ## Datasets for Beginners
 
 1. [Mushroom Classification Problem](https://www.kaggle.com/uciml/mushroom-classification/home)
